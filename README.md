@@ -2,7 +2,7 @@
 
 This component display comments / notes in your app. I am using it in combination with a streamlit form to collect user feedback. The feedback is saved in an sql table. 
 
-Check out the [live demo](tbd)!
+Check out the [live demo](https://st-comments.streamlit.app/)!
 
 
 ## Installation
